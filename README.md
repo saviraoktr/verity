@@ -1,4 +1,4 @@
-# Verity — AI Content Review Studio
+# Verity: AI Content Review Studio
 Verity is a content review tool designed to help users identify potential issues in written content before publication.
 
 The concept focuses on reviewing written content for repetition, structural issues, and unsupported claims, helping writers and editors examine their work before publishing.
